@@ -52,10 +52,3 @@ Les indices de bonheur, publiés chaque année dans le **World Happiness Report*
   - Comparaison des scores entre les pays, régions et années.
   - Identification des tendances majeures.
 
----
-
-## Comment Exécuter le Projet
-
-1. Clonez le dépôt GitHub :
-   ```bash
-   git clone https://github.com/AnassMtere/World-Happiness-Analysis.git
